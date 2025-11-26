@@ -74,7 +74,6 @@ Strengthened expertise in data storytelling, insight communication, and dashboar
 
 📎 Project Links
 
-📊 Tableau Dashboards: Dashboard 1 : https://public.tableau.com/app/profile/swati.kumari8326/viz/RetailSalesOverviewDashboard/Dashboard1
- | Dashboard 2 : https://public.tableau.com/app/profile/swati.kumari8326/viz/SalesDriversDiscountWeeklyTrendsDashboard/Dashboard2
+📊 Tableau Dashboards : https://public.tableau.com/app/profile/swati.kumari5806/viz/RetailAnalyticsDashboard_17641264417230/Dashboard1
 
 💻 GitHub Repository: https://github.com/swatikri2121-crypto/Fresh_Retail
