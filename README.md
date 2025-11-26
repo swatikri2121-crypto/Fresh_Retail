@@ -34,19 +34,12 @@ Analyzed weekly and monthly sales trends.
 Assessed discount performance and its correlation with total revenue.
 
 Tableau Dashboards
-Dashboard 1 — Store & Discount Performance
 
-Top Performing Stores: Ranked by total sales amount.
+Built a multi-chart interactive dashboard to analyze sales patterns across discounts, weather conditions, stock levels, and category combinations.
 
-Sales Trend Over Time: Weekly sales line chart with moving average.
+Identified key demand drivers such as weekend uplift, discount effectiveness, and weather-driven sales (temperature + humidity impact).
 
-Impact of Discount on Sales: Scatter plot showing positive correlation up to 20% discount.
-
-Dashboard 2 — Category & Store Insights
-
-Category-wise Sales Share: Pie chart showing sales contribution by category.
-
-Store-wise Comparison: Bar and box plots showing sales volatility across locations.
+Revealed that holiday-only days don’t increase sales — highest uplift occurs during Holiday + Activity events with strong discounting.
 
 Key Insights
 
